@@ -1,0 +1,14 @@
+Tools: Prometheus, Nagios, Grafana
+
+Use: Tracks infrastructure, application performance, and system health.
+Why These Tools?
+Legacy tools like Nagios had:
+Static configuration files.
+Difficulty in handling dynamic environments.
+Prometheus introduced:
+Real-time metrics collection.
+Dynamic service discovery.
+Integration with visualization tools like Grafana.
+Drawbacks of Legacy Monitoring:
+Limited scalability and dynamic support.
+Lack of integration with modern cloud-native systems.
