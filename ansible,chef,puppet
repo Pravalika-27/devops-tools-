@@ -1,0 +1,11 @@
+Tools: Ansible, Chef, Puppet
+
+Use: Automates infrastructure setup, provisioning, and application deployment.
+Why These Tools?
+Before configuration management tools, sysadmins manually configured servers, leading to inconsistencies.
+Puppet/Chef: Introduced Infrastructure as Code (IaC) and centralized configurations.
+Ansible improved by:
+Eliminating the need for a master node.
+Using SSH for communication, making it lightweight and easy to use.
+Drawbacks of Manual Configuration:
+Error-prone, time-consuming, and inconsistent.
