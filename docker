@@ -1,0 +1,10 @@
+Tool: Docker
+
+Use: Packages applications with dependencies into containers for consistent deployment across environments.
+Why Docker?
+Traditional Virtual Machines (VMs) were resource-intensive and took time to spin up.
+Docker introduced lightweight containers, reducing overhead and enabling faster deployments.
+Drawbacks of VMs:
+High resource usage.
+Slower boot times.
+Complex configurations.
