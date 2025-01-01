@@ -1,0 +1,11 @@
+Tools: Terraform, AWS CloudFormation
+
+Use: Automates the provisioning of cloud infrastructure.
+Why Terraform?
+Traditional manual provisioning was:
+Time-consuming.
+Prone to errors.
+Terraform introduced a declarative approach and cross-platform support (AWS, Azure, GCP).
+Drawbacks of Manual Provisioning:
+Inconsistencies in infrastructure.
+Difficulty in scaling and replicating environments.
