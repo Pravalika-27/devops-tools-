@@ -1,0 +1,10 @@
+Tool: Maven/Gradle
+
+Use: Automates the building, packaging, and dependency management of applications.
+Why Maven/Gradle?
+Before Maven, Ant was widely used. Ant had no standardized project structure and required manually written scripts for dependencies.
+Maven introduced convention over configuration and dependency management.
+Gradle further improved by offering flexibility with Groovy scripting and better performance for large projects.
+Drawbacks of Ant:
+No built-in dependency management.
+Tedious manual configurations.
