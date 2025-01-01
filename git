@@ -1,0 +1,12 @@
+1. Version Control Tools
+Tool: Git
+
+Use: Tracks changes in source code, facilitates collaboration, and maintains version history.
+Why Git?
+Earlier tools like SVN and CVS had limitations such as:
+Centralized architecture, making collaboration slower and less reliable.
+Complex branching and merging workflows.
+Git introduced a distributed model, enabling faster and more efficient workflows, easy branching, and local repositories for developers.
+Drawback of SVN:
+Single point of failure in centralized repositories.
+Difficult branching and merging processes.
