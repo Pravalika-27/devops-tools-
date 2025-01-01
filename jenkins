@@ -1,0 +1,10 @@
+3. Continuous Integration Tools
+Tool: Jenkins
+
+Use: Automates the integration and testing of code changes in real-time.
+Why Jenkins?
+Earlier tools like CruiseControl and manual testing processes were rigid, difficult to configure, and lacked plugin ecosystems.
+Jenkins, with its open-source nature and extensive plugin support, became the backbone for CI pipelines.
+Drawbacks of Manual CI:
+Increased integration failures.
+Lack of feedback loops and visibility
