@@ -1,0 +1,11 @@
+Tool: Nexus/Artifactory
+
+Use: Manages binary artifacts and dependencies.
+Why These Tools?
+Before, teams used shared drives or Git for binaries, leading to inefficiencies.
+Nexus/Artifactory introduced:
+Version control for binaries.
+Improved security and scalability.
+Drawbacks of Using Git for Binaries:
+Bloated repositories.
+Poor handling of large files.
