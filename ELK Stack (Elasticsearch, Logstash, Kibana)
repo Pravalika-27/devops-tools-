@@ -1,0 +1,13 @@
+9. Logging Tools
+Tools: ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Use: Centralized log management and analysis.
+Why ELK?
+Earlier tools like syslog or manual log parsing were:
+Hard to scale.
+Inefficient in large environments.
+ELK offered:
+Advanced search and analytics.
+Centralized log storage with Kibana for visualization.
+Drawbacks of Manual Log Management:
+Time-consuming and lacked real-time insights.
