@@ -1,0 +1,13 @@
+6. Orchestration Tools
+Tool: Kubernetes
+
+Use: Automates deployment, scaling, and management of containerized applications.
+Why Kubernetes?
+Earlier tools like Docker Swarm and Mesos were limited in scalability and flexibility for large-scale environments.
+Kubernetes offered:
+Self-healing capabilities.
+Advanced networking and service discovery.
+Seamless horizontal scaling.
+Drawbacks of Docker Swarm/Mesos:
+Limited support for complex deployments.
+Poor fault tolerance in large-scale systems.
